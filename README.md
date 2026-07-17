@@ -20,13 +20,6 @@ Currently I'm developing products focused on tourism, sustainability and regiona
   <img src="https://skillicons.dev/icons?i=angular,laravel,php,js,html,css,react,mysql,git,vscode,postgres,c,python,java" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jadson2018&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadson2018&layout=compact&theme=tokyonight"/>
-</p>
-
 ## Featured Projects
 
 ### 🌍 Samatour

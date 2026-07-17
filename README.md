@@ -4,6 +4,8 @@
 🎓 Computer Science Student at UFES
 🚀 Building digital products that solve real problems.
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 ## About Me
 
 I'm a Full Stack Developer passionate about technology, innovation and product development.

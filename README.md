@@ -4,7 +4,7 @@
 🎓 Computer Science Student at UFES
 🚀 Building digital products that solve real problems.
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<jadson2018>/<jadson2018>/blob/output/github-contribution-grid-snake2.svg)
 
 ## About Me
 
